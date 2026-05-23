@@ -65,3 +65,16 @@ This section showcases the main features of the FitMe platform through visual pr
 
 ## 🖥️ User Interface
 
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./6.png)
+![](./4.png)
+
+## 📊 Admin Dashboard
+
+![](./0.png)
+![](./image1.png)
+![](./image2.png)
+
+
